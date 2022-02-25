@@ -1,0 +1,2 @@
+# NewsPaperSpider
+Spider of newspapers.
