@@ -1,3 +1,5 @@
 # NewsPaperSpider
 Spider of newspapers.
-![60fff08357bdd6aa29612cb8d5047911](https://user-images.githubusercontent.com/33325023/155712537-b87c35d9-aaea-4297-b24f-38ab9abf06b5.jpeg)
+
+
+![4218449de32fea81f3a6fb8c40d38909](https://user-images.githubusercontent.com/33325023/155712575-d7448f04-6f63-46bb-b7e1-a5d9720383b4.jpeg)
